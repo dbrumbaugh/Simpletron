@@ -5,8 +5,7 @@ Build Status: ![travis-ci](https://travis-ci.org/Hot-Like-Sauce/Simpletron.svg?b
 Team A Members:
 
     Cameron
+    Kristin
+    ???
+    ???
     Zach
-    ???
-    ???
-    ???
-
