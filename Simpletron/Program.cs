@@ -12,7 +12,8 @@ namespace Simpletron
         { 
 
             Simpletron simpletron = new Simpletron();
-            
+            Console.Write("Welcome to the Simpletron9000 Wicked Awesome OS");
+            Console.ReadLine();
         }
     }
 }
