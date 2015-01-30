@@ -6,6 +6,6 @@ Team A Members:
 
     Cameron
     Kristin
-    ???
-    ???
+    Sri
+    Adrian
     Zach
